@@ -2,7 +2,7 @@ package com.rdaltio.dslist.services;
 
 import com.rdaltio.dslist.dto.GameMinDTO;
 import com.rdaltio.dslist.entities.Game;
-import com.rdaltio.dslist.entities.GameDTO;
+import com.rdaltio.dslist.dto.GameDTO;
 import com.rdaltio.dslist.projections.GameMinProjection;
 import com.rdaltio.dslist.repositories.GameRepository;
 import org.springframework.beans.factory.annotation.Autowired;

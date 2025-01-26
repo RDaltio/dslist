@@ -1,8 +1,7 @@
 package com.rdaltio.dslist.controllers;
 
 import com.rdaltio.dslist.dto.GameMinDTO;
-import com.rdaltio.dslist.entities.Game;
-import com.rdaltio.dslist.entities.GameDTO;
+import com.rdaltio.dslist.dto.GameDTO;
 import com.rdaltio.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

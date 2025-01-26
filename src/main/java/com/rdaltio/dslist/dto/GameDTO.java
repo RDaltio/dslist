@@ -1,5 +1,6 @@
-package com.rdaltio.dslist.entities;
+package com.rdaltio.dslist.dto;
 
+import com.rdaltio.dslist.entities.Game;
 import org.springframework.beans.BeanUtils;
 
 public class GameDTO {
